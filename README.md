@@ -5,7 +5,7 @@
     .
     ├── Preprocessing.py        # Preprocess the data
     ├── XGB_method.py           # Build the model and make prediction
-    ├── runcode.ipynb           # An example about how to run the code
+    ├── runcode.ipynb           # Example on how to run this code
     └── README.md
     html2021final
     ├── ...
