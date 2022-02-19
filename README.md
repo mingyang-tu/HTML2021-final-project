@@ -12,6 +12,6 @@
     └── Dataset downloaded from Kaggle
 ### Model: 
 - XGBoost: https://xgboost.readthedocs.io/en/stable/
-### Result:
+### Results:
 - Public: 16/127
 - Private: 44/127
