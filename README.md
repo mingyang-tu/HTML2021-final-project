@@ -1,4 +1,4 @@
-# Final Project of Machine Learning 2021 (Hsuan-Tien Lin)
+# Machine Learning 2021 Final Project
 ### Competition Site (Kaggle): 
 - https://www.kaggle.com/c/html2021final/
 ### Directory:
